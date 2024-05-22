@@ -16,3 +16,13 @@ public class logicalPrinting{
         sc.close();
     }
 }
+/* 
+problem
+Take three numbers from the user, i.e. n1, n2 and n3.
+The First line is an integer, n1
+The Second line is an integer, n2
+The Third line is an integer, n3
+
+
+Output Format
+Print the statement with Boolean results.*/
