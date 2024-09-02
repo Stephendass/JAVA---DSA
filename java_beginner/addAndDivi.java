@@ -1,4 +1,4 @@
-package java_beginner;
+// package java_beginner;
 import java.util.*;
 
 public class addAndDivi {
