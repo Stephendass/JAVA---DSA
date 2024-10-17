@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1D Array/1D Array.iml" filepath="$PROJECT_DIR$/1D Array/1D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1D Array/AddBwithArray/AddBwithArray.iml" filepath="$PROJECT_DIR$/1D Array/AddBwithArray/AddBwithArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA &amp; DSA.iml" filepath="$PROJECT_DIR$/JAVA &amp; DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1D Array/product/product.iml" filepath="$PROJECT_DIR$/1D Array/product/product.iml" />
+    </modules>
+  </component>
+</project>
